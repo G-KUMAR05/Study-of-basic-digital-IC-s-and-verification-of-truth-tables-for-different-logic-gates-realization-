@@ -1,6 +1,6 @@
 ```
-Name :- Rajalakshmi R
-Reg No :- 23013958
+Name :- KUMAR G
+Reg No :- 23012615
 ```
 
 # Exp-1 : Study of basic digital IC s and verification of truth tables for different logic gates realization
